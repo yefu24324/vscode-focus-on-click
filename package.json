@@ -1,13 +1,13 @@
 {
   "name": "focus-on-click",
   "publisher": "OzerGul",
-  "displayName": "focus on click",
-  "description": "focuses file on click",
+  "displayName": "Focus on Click",
+  "description": "Focuses file on click. It's needed if you have autoReveal: false. (Ideal extension for the Webstorm users)",
   "repository": {
     "type": "git",
     "url": "https://github.com/ozergul/vscode-focus-on-click.git"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.96.0"
   },
