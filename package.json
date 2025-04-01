@@ -27,7 +27,7 @@
         {
           "command": "focus-on-click.focus",
           "group": "navigation",
-          "when": "explorerViewletVisible"
+          "when": "view == 'workbench.explorer.fileView'"
         }
       ]
     }
